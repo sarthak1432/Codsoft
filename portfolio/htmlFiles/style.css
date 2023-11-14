@@ -1,0 +1,177 @@
+       
+        
+        
+        li{
+            float: right;
+        }
+        ul{
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: #333333;
+            color: greenyellow;
+        }
+        li a{
+            display: block;
+            color: white;
+            text-align: center;
+            padding :16px;
+            text-decoration: none;
+        }
+        
+       li a:hover{
+            color: #8c99a4;
+        }
+
+        #myIntre {
+            color :rgb(34, 2, 218);
+        }
+        #headId{
+            background-color: rgb(32, 32, 36);
+        }
+        #bodyId{
+            
+            background-image: url("/images/pxfuel.jpg");
+        }
+        .main-brand{
+            font-size: 24PX;
+            text-decoration-line: none;
+            text-transform: uppercase;
+            font-weight: bold;
+            padding:20px;
+            padding-top: 40px;
+        }
+        .main_brand_nam{
+            color: white;
+        }
+
+        .spanConst{
+            text-transform: uppercase;
+            color: blue;
+        }
+        #javaId{
+            color: orange;
+        }
+
+        .about-me{
+                font-size: 30px;
+        }
+
+        #persuingId{
+            font-family:Arial, Helvetica, sans-serif;
+            font-style: italic;
+        }
+        
+
+        .boldClass{
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+
+        .sizeClass{
+            font-size: 30px;
+        }
+        .floatLfet{
+            float: left;
+        }
+
+        .link{
+            color: red;
+        }
+        #background{
+            background-image: url("/images/pxfuel.jpg");
+            border: 2px solid black;
+            background-repeat: no-repeat;
+            background-size: auto;
+          }
+
+        #aboutBody{
+            background-image: url("/images/OIP.jpg");
+        }
+        .name{
+            color:orange;  
+        }
+        #indexBody{
+            background-image: url('/images/pexels-james-lee-6054896.jpg');
+        }
+
+        .whiteClass{
+            color: white;
+        }
+
+        #infoId{
+            position: absolute;
+            top: 30%;
+            left: 40%;
+            word-wrap: break-word;
+            padding-left: -1000%;
+            display: inline-block;
+            vertical-align: middle;
+            padding-top: -10;
+        }
+        #imageId{
+            position: absolute;
+            top: 30%;
+            left: 70%;
+            word-wrap: break-word;
+            display: inline-block;
+            vertical-align: middle;
+        }
+        #linkId{
+            position: static;
+            top: 45%;
+            left: 75%;
+            word-wrap: break-word;
+            padding-left: 67%;
+            display: inline-block;
+            vertical-align: middle;
+            width: 20px;
+            padding-top: 33.8%;
+            
+        }
+        .aboutInfo{
+            text-wrap: wrap;
+        }
+
+        #webId{
+                font-size: 130%;
+                color: darkblue;
+        }
+
+        #aboutIdForMe{
+            position: absolute;
+            padding-left: 52%;
+            padding-top: 32%;
+            font-style: italic;
+            font-display:initial;
+           
+            text-decoration-line: underline;
+        }   
+        .camelCaseClass{
+            text-decoration: none;
+            font-size: 20px;
+            text-transform: capitalize;
+        }
+        #underId{
+            text-decoration-line: underline;
+            color: coral;
+            font-size: large;
+        }
+        .zoom{
+            transition: transform .2s;
+            margin: 0 auto;
+            padding: 50px;
+        }
+
+        .zoom:hover{
+            transform: scale(1.5);
+        }
+        /* hr .horizontalLine{
+            width: 80%;
+            text-align: left;
+            margin-left: 10%;
+            margin-top: 10%;
+            border-top: 7px solid #095484;  
+        } */
